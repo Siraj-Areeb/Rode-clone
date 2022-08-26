@@ -1,7 +1,5 @@
 # Tailwind Project
-Paytm.com Home-page Clone
-
-Cloning Paytm.com Landind Page
+**RODE.com** Home-page Clone
 
 Hands-on Experience:
 - Tailwind CSS - 'Extensive Usage'
